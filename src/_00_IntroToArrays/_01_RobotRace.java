@@ -16,6 +16,7 @@ Robot[] robots= new Robot[6];
 		//3. use a for loop to initialize the robots.
 for(int i=0; i<robots.length;i++) {
 	robots[i]=new Robot();
+
 }
 			//4. make each robot start at the bottom of the screen, side by side, facing up
 
